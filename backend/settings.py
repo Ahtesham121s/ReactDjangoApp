@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-v9so(8lp0lodlo^ikr6s9$0y*b2f^p)yh94+@ag_^s7-_rw09o
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['43.207.235.103']
+ALLOWED_HOSTS = ['54.178.38.68']
 
 # # pip install django-cors-headers
 # CORS_ORIGIN_ALLOW_ALL = False # If this is used then CORS ORIGIN WHITELIST will not have any effect
